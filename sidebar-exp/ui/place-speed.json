@@ -1,0 +1,16 @@
+[
+  {
+    "id": "place_speed",
+    "type": "widget",
+    "style": "layout",
+    "arrange": "columns",
+    "widgets": [
+      "place_desc",
+      "vehicle_cruise_desc_label"
+    ],
+    "label": {
+      "str": "PlaceSpeed",
+      "ctxt": "UI sidebar"
+    }
+  }
+]

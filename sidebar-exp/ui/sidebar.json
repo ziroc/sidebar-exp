@@ -1,0 +1,7 @@
+  {
+    "//": "Extend the custom sidebar with Magiclysm-specific sections",
+    "copy-from": "legacy_classic_sidebar",
+    "type": "widget",
+    "id": "legacy_classic_sidebar",
+    "extend": { "widgets": [ "place_speed" ] }
+  }

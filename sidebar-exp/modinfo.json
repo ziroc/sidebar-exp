@@ -1,0 +1,13 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "sidebar-exp",
+    "name": "sidebar-exp",
+    "authors": [ "avtolik" ],
+    "description": "avtolik's sidebar experiments",
+    "category": "content",
+    "dependencies": [ "dda" ],
+    "obsolete": false
+  }
+  
+]
